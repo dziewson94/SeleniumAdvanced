@@ -1,0 +1,10 @@
+environments:
+  int:
+    environmentName: Continues Integration
+    url: https://www.filmweb.pl/
+    title: Test Filmweb title
+  test:
+    title: Test Onet title
+    url: https://www.onet.pl/
+    environmentName: Test
+

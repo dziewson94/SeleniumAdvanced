@@ -1,0 +1,41 @@
+users:
+  - username: Misiek
+    password: haslo
+    email: ziom@gmail.com
+    city: lodz
+    postalCode: 93-121
+    streetAndNo: Zakrzew 12
+    apartment: 33a
+    phoneNumber: 222-222-222
+  - username: JohnDoe
+    password: pass123
+    email: john.doe@example.com
+    city: New York
+    postalCode: 10001
+    streetAndNo: 5th Avenue 123
+    apartment: Apt 456
+    phoneNumber: 555-555-5555
+  - username: AliceSmith
+    password: qwerty
+    email: alice.smith@example.com
+    city: London
+    postalCode: SW1A 1AA
+    streetAndNo: Buckingham Palace Road 1
+    apartment: 10B
+    phoneNumber: 44-20-1234-5678,
+  - username: RobertGreen
+    password: password
+    email: robert.green@example.com
+    city: Paris
+    postalCode: 75001
+    streetAndNo: Rue de Rivoli 1
+    apartment: Apt 23
+    phoneNumber: 33-1-2345-6789
+  - username: SarahBrown
+    password: secret
+    email: sarah.brown@example.com
+    city: Berlin
+    postalCode: 10115
+    streetAndNo: Unter den Linden 1
+    apartment: 5C
+    phoneNumber: 49-30-1234-5678

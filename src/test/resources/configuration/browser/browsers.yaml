@@ -1,0 +1,11 @@
+browsers:
+  chrome:
+    name: chrome
+    window: maximize
+    options: [ --remote-allow-origins=* ]
+    prefs:
+      download.prompt_for_download: false
+      download.default_directory: C:\Users\m.dziewa\IdeaProjects\YamlConfigWeek7_2\target
+  firefox:
+    name: firefox
+    window: maximize
